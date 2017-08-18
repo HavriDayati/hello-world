@@ -1,1 +1,1 @@
-<?php echo "havri dayati"
+<?php echo "havri dayati Teknik Informatika"
